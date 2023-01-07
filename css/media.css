@@ -1,0 +1,22 @@
+@media (max-width: 48.6875em) {
+  .grid {
+    grid-template-columns: 1fr;
+    row-gap: 25px;
+  }
+
+  .light-heading {
+    font-size: 1.5rem;
+  }
+
+  .bold-heading {
+    font-size: 1.5rem;
+  }
+
+  .main-text {
+    font-size: 0.9375rem;
+  }
+
+  .card--red {
+    margin-bottom: 25px;
+  }
+}

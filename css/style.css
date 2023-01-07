@@ -50,6 +50,7 @@ header {
   grid-template-columns: repeat(3, 1fr);
   max-width: 69.375rem;
   column-gap: 30px;
+  margin-bottom: 40px;
 }
 
 .col-1,
