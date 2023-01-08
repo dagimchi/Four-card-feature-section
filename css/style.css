@@ -10,9 +10,6 @@ body {
   font-size: 0.9375rem;
   background: #fafafa;
   color: #4d4f62;
-}
-
-main {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,16 +23,15 @@ header {
   text-align: center;
 }
 
-.light-heading {
+.heading {
   font-size: 2.25rem;
   font-weight: 200;
   letter-spacing: 0.25px;
 }
 
-.bold-heading {
-  font-size: 2.25rem;
+.heading .heading-btm {
+  display: inline-block;
   font-weight: 600;
-  letter-spacing: 0.25px;
   margin-bottom: 0.8125rem;
 }
 
